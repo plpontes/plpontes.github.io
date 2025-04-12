@@ -1,7 +1,9 @@
 # Patrícia de Lima Pontes
 Brasileira - Casada - 44 anos
 
+
 ## Contato
+* ![Eu](eu.jpg) 
 * plpontes@gmail.com
 
 ## Área de Interesse
