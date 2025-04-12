@@ -2,10 +2,10 @@
 Brasileira - Casada - 44 anos
 
 ## Área de Interesse
-Especialista PL/SQL
-Especialista Power Center Informática
-Programadora Backend Java
-Programadora Linguagem R
+* Especialista PL/SQL
+* Especialista Power Center Informática
+* Programadora Backend Java
+* Programadora Linguagem R
 
 ## Formação Acadêmica
 MBA em Data Science e Analytics
