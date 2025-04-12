@@ -9,6 +9,8 @@ Brasileira - Casada - 44 anos
 * Especialista Power Center Informática
 * Programadora Backend Java
 * Programadora Linguagem R
+* Programadora Python
+* Programadora SAS
 
 ## Formação Acadêmica
 MBA em Data Science e Analytics
