@@ -1,6 +1,9 @@
 # Patrícia de Lima Pontes
 Brasileira - Casada - 44 anos
 
+## Contato
+* plpontes@gmail.com
+
 ## Área de Interesse
 * Especialista PL/SQL
 * Especialista Power Center Informática
@@ -36,36 +39,36 @@ Estudante das tecnologias de data science.
 ## Experiências Profissionais
 ### WAYON IT Solutions
 Analista Programadora PL/SQL
-abril de 2021 - Atual
+(abril de 2021 - Atual)
 
 ### Wipro
 Analista Programadora ETL/BI
-junho de 2020 - março de 2021
+(junho de 2020 - março de 2021)
 
 ### DTM Marketing de Relacionamento
 Consultora de Banco de Dados / BI
-setembro de 2019 - abril de 2020
+(setembro de 2019 - abril de 2020)
 
 ### WAYON IT Solutions
 Analista Programadora PL/SQL
-junho de 2018 - agosto de 2019
+(junho de 2018 - agosto de 2019)
 
 ### TDW BI Consulting
 Analista Programadora ETL/BI
-outubro de 2014 - maio de 2018
+(outubro de 2014 - maio de 2018)
 
 ### Giexonline Gestão de Negócios Ltda
 Analista Programadora .NET
-março de 2014 - outubro de 2014
+(março de 2014 - outubro de 2014)
 
 ### InfoSERVER
 Analista de Sistemas
-agosto de 2013 - dezembro de 2013
+(agosto de 2013 - dezembro de 2013)
 
 ### BMattos Associados Ltda
 Analista Programadora PL/SQL
-outubro de 2011 - julho de 2013
+(outubro de 2011 - julho de 2013)
 
 ### 7Comm
 Analista Programadora .Net/VB6
-abril de 2008 - junho de 2011
+(abril de 2008 - junho de 2011)
