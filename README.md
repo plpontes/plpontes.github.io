@@ -3,8 +3,8 @@ Brasileira - Casada - 44 anos
 
 
 ## Contato
-* ![Eu](eu.jpg) 
-* plpontes@gmail.com
+ ![Eu](eu.jpg) 
+ plpontes@gmail.com
 
 ## Área de Interesse
 * Especialista PL/SQL
@@ -31,13 +31,13 @@ Colégio Albert Einstein (Concluído em 1997)
 SAS Certified Base Programmer 9 (Ano 2016)
 
 ## Resumo das Qualificações
-Profissional com 25 anos de carreira desenvolvida na área detecnologia da informação, tendo como principal foco a análise e desenvolvimento de sistemas voltados para banco de dados.
+Profissional com 25 anos de carreira desenvolvida na área de tecnologia da informação, tendo como principal foco a análise e desenvolvimento de sistemas voltados para banco de dados.
 Forte domínio em linguagem SQL. 
-Ampla experiência na criação de triggers, stored procedures, functions, views, queries complexas e também no desenvolvimento de ETLs. Conhecimentos avançadosnas linguagens de programação de banco de dados PL/SQL e T-SQL. 
-Experiência em ETL usando Informática Power Center Oracle e SQL Server Integration Services (SSIS). 
+Ampla experiência na criação de triggers, stored procedures, functions, views, queries complexas e também no desenvolvimento de ETLs. Conhecimentos avançados nas linguagens de programação de banco de dados PL/SQL e T-SQL. 
+Domínio em ETL usando Informática Power Center Oracle e experiência com SQL Server Integration Services (SSIS). 
 Conhecimentos avançados em programação SAS (criação de macros e data steps).
 Experiência em Shell Script (bash Linux). 
-Atuação em levantamento de requisitos e elaboração deespecificações funcionais e técnicas, bem como em Modelagemde Dados Relacional e também Multidimensional para DataWarehouses.
+Atuação em levantamento de requisitos e elaboração de especificações funcionais e técnicas, bem como em Modelagemde Dados Relacional e também Multidimensional para DataWarehouses.
 Estudante das tecnologias de data science.
 
 ## Experiências Profissionais
