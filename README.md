@@ -33,7 +33,7 @@ Domínio em ETL usando Informática Power Center Oracle e experiência com SQL S
 Conhecimentos avançados em programação SAS (criação de macros e data steps).
 Experiência em Shell Script (bash Linux). 
 Atuação em levantamento de requisitos e elaboração de especificações funcionais e técnicas, bem como em Modelagemde Dados Relacional e também Multidimensional para DataWarehouses.
-Estudante das tecnologias de data science.
+Estudante das tecnologias de data science e de Java Backend.
 
 ## Experiências Profissionais
 ### WAYON IT Solutions
