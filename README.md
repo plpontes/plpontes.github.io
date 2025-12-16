@@ -26,7 +26,7 @@ Colégio Albert Einstein (Concluído em 1997)
 SAS Certified Base Programmer 9 (Ano 2016)
 
 ## Resumo das Qualificações
-Profissional com 25 anos de carreira desenvolvida na área de tecnologia da informação, tendo como principal foco a análise e desenvolvimento de sistemas voltados para banco de dados.
+Profissional com 26 anos de carreira desenvolvida na área de tecnologia da informação, tendo como principal foco a análise e desenvolvimento de sistemas voltados para banco de dados.
 Forte domínio em linguagem SQL. 
 Ampla experiência na criação de triggers, stored procedures, functions, views, queries complexas e também no desenvolvimento de ETLs. Conhecimentos avançados nas linguagens de programação de banco de dados PL/SQL e T-SQL. 
 Domínio em ETL usando Informática Power Center Oracle e experiência com SQL Server Integration Services (SSIS). 
@@ -36,9 +36,13 @@ Atuação em levantamento de requisitos e elaboração de especificações funci
 Estudante das tecnologias de data science e de Java Backend.
 
 ## Experiências Profissionais
+### Tokio Marine Seguradora
+Analista de Sistemas
+(dezembro de 2025 - Atual)
+
 ### WAYON IT Solutions
 Analista Programadora PL/SQL
-(abril de 2021 - Atual)
+(abril de 2021 - novembro de 2025)
 
 ### Wipro
 Analista Programadora ETL/BI
